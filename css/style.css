@@ -1,0 +1,53 @@
+body {
+    background-color: #EDF2F4
+}
+
+.logo {
+    height: 150px;
+}
+
+.navbar {
+    background-color: #2B2D42;
+    border-radius: 10px;
+}
+
+.navbar-nav li {
+    margin-left: 4rem;
+}
+
+.navbar-nav li a {
+    color: white;
+}
+
+.flex-column {
+    background-color: #2B2D42;
+    border-radius: 10px;
+}
+
+.flex-column li a {
+    color: white;
+}
+
+.card-img-top {
+    max-width: 254px;
+    max-height: 254px;
+}
+
+.nav-link:hover {
+    color: #dc3545;
+}
+
+aside .nav-link {
+    color: gray;
+    font-weight: bold;
+}
+
+aside .nav-link:hover {
+    color: white;
+    background-color: #dc3545;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: black;
+}
